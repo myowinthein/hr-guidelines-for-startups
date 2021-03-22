@@ -85,3 +85,22 @@
 - 3rd time termination with severance pay
 
 > If employee admits their violation and pass the improvement plan, all issued warnings will be reset.
+
+***
+
+# Company Events
+
+### Bar Nights
+- Announce the event 1 week before
+- Best to do when we hit some milestones
+  - Size of tech team reach xx members
+  - Exceed than targeted profit margin
+
+### Birthday
+- Post about birthday 30 mins before the working time
+
+### Resignation
+- Post about resignation 3 days before the last working day
+- Invite tech team to farewell on that date
+
+***
