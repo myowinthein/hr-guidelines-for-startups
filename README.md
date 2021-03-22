@@ -8,7 +8,7 @@
 
 ### Interview Questions
 
->> Focus on hiring a web developer
+> Focus on hiring a web developer
 
 ##### General
 - Why do u choose programming career?
@@ -35,3 +35,37 @@
 - Interested in system administrations?
 - Interested in database queries?
 - Least favorite part of programming?
+
+***
+
+# Onboarding
+
+### 3 Days Before
+
+- List projects & features to assign
+- Send calendar invite to tech team about the welcome video call
+- Ask to employee
+  - Hardware requirements
+  - Potrait photo
+  - SSH public key
+- Create new accounts
+  - Email (e.g. outlook, gmail)
+  - GitLab
+  - AWS
+  - Any third-party applications
+- Invite to assigned projects
+  - GitLab repositories
+  - Project related group chats (e.g. workplace, slack)
+  - Third-party developer consoles (e.g. facebook, google)
+  - UI/UX prototype sites (e.g. sketch, invision)
+  - Database diagram sites (e.g. lucid.app)
+  - Architecture diagram sites (e.g. whimsical)
+- Add birthday & work anniversary to reminder app
+- Create an employee report `No specific format. Can include personality, weakness, strength, etc`
+
+### First Working Day
+- Introduce to tech team in video call
+- Explain a brief about company & SOP in tech team
+- Post about employee in company group chat or internal social network
+- Give credentials of opened accounts
+- Project handover
