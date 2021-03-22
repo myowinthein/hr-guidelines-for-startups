@@ -69,3 +69,19 @@
 - Post about employee in company group chat or internal social network
 - Give credentials of opened accounts
 - Project handover
+
+***
+
+# Punishment
+
+### Violation Cases
+- Negative attitude in workspace
+- Not meeting project deadlines
+- Poor technical knowledge and work rate
+
+### Actions
+- 1st time warning (verbal + letter + improvement plan + monitoring)
+- 2nd time warning (verbal + letter + improvement plan + monitoring)
+- 3rd time termination with severance pay
+
+> If employee admits their violation and pass the improvement plan, all issued warnings will be reset.
