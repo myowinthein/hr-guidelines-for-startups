@@ -38,7 +38,7 @@
 
 ***
 
-# Onboarding
+# On-boarding
 
 ### 3 Days Before
 
@@ -46,7 +46,7 @@
 - Send calendar invite to tech team about the welcome video call
 - Ask to employee
   - Hardware requirements
-  - Potrait photo
+  - Portrait photo
   - SSH public key
 - Create new accounts
   - Email (e.g. outlook, gmail)
@@ -72,22 +72,6 @@
 
 ***
 
-# Punishment
-
-### Violation Cases
-- Negative attitude in workspace
-- Not meeting project deadlines
-- Poor technical knowledge and work rate
-
-### Actions
-- 1st time warning (verbal + letter + improvement plan + monitoring)
-- 2nd time warning (verbal + letter + improvement plan + monitoring)
-- 3rd time termination with severance pay
-
-> If employee admits their violation and pass the improvement plan, all issued warnings will be reset.
-
-***
-
 # Company Events
 
 ### Bar Nights
@@ -102,5 +86,41 @@
 ### Resignation
 - Post about resignation 3 days before the last working day
 - Invite tech team to farewell on that date
+
+***
+
+# Employee Benefits
+
+### Computer
+- Instead of giving a new laptop, set a budget for them to buy essential gadgets & do hardware upgrades
+- Set a duration in months on when to give away all the provided gadgets and upgrades
+
+### Benefits & Allowances
+> Depends on company's financial condition
+
+- Internet allowance for remote developers
+- Gym allowance
+- Transportation allowance
+- Medical insurance
+- Provide online courses & certification exams
+- Free lunch & snacks
+- Project bonus
+- 13th month double salary
+
+***
+
+# Punishment
+
+### Violation Cases
+- Negative attitude in workspace
+- Not meeting project deadlines
+- Poor technical knowledge and work rate
+
+### Actions
+- 1st time warning (verbal + letter + improvement plan + monitoring)
+- 2nd time warning (verbal + letter + improvement plan + monitoring)
+- 3rd time termination with severance pay
+
+> If employee admits their violation and pass the improvement plan, all issued warnings will be reset.
 
 ***
