@@ -104,7 +104,7 @@
 - Medical insurance
 - Provide online courses & certification exams
 - Free lunch & snacks
-- Project bonus
+- Project bonus `set a rule on how many % to split on which conditions`
 - 13th month double salary
 
 ***
@@ -124,3 +124,28 @@
 > If employee admits their violation and pass the improvement plan, all issued warnings will be reset.
 
 ***
+
+# Resignation
+
+### Initial Steps
+- Arrange meeting to understand employee problems, needs & wants
+- Decide to counteroffer or not
+
+### Exit Stage
+- Prepare for project handover
+- List items to reclaim
+- List documents to give
+  - Recommendation letter
+  - Employment letter
+  - Tax papers
+- List accounts to remove
+  - Email
+  - GitLab
+  - AWS
+  - Developer console
+  - Third-party applications
+- Exit interview `perform at the last working day`
+  - Ask cons of working here
+  - Ask areas to improve
+  - Ask personality of co-workers
+  - Ask their view on projects
