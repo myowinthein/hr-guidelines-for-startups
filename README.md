@@ -57,6 +57,7 @@
   - GitLab repositories
   - Project related group chats (e.g. workplace, slack)
   - Third-party developer consoles (e.g. facebook, google)
+  - API documentation (e.g. postman, swagger)
   - UI/UX prototype sites (e.g. sketch, invision)
   - Database diagram sites (e.g. lucid.app)
   - Architecture diagram sites (e.g. whimsical)
@@ -158,7 +159,7 @@
 ### Tech Team
 - List projects to handover
 - Get current resource allocation plan
-  - Check if recruitment is needed
+  - Check if recruitment is needed `Refer to recruitment section`
   - List suitable developers for each project & notify them
   - Calculate and set timeline for handover process
 
@@ -175,3 +176,5 @@
 - UI/UX prototype sites (e.g. sketch, invision)
 - Database diagram sites (e.g. lucid.app)
 - Architecture diagram sites (e.g. whimsical)
+
+***
