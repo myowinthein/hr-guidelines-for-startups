@@ -131,8 +131,8 @@
 - Arrange meeting to understand employee problems, needs & wants
 - Decide to counteroffer or not
 
-### Exit Stage
-- Prepare for project handover
+### If Unable to Counteroffer
+- Prepare for project handover `check detail steps on next section`
 - List items to reclaim
 - List documents to give
   - Recommendation letter
@@ -144,8 +144,34 @@
   - AWS
   - Developer console
   - Third-party applications
+- Write LinkedIn recommendation for excellent employee
 - Exit interview `perform at the last working day`
   - Ask cons of working here
   - Ask areas to improve
   - Ask personality of co-workers
   - Ask their view on projects
+
+***
+
+# Project Handover on Employee Exit
+
+### Tech Team
+- List projects to handover
+- Get current resource allocation plan
+  - Check if recruitment is needed
+  - List suitable developers for each project & notify them
+  - Calculate and set timeline for handover process
+
+### Clients
+- Email to clients about the developer changes
+
+### Provoke Access
+- Company group chats (e.g. workplace, slack)
+- Email (e.g. outlook, gmail)
+- GitLab `including SSH Public Key`
+- AWS `including SSH Public Key`
+- API documentation (e.g. postman, swagger)
+- Third-party developer consoles (e.g. google, facebook, firebase)
+- UI/UX prototype sites (e.g. sketch, invision)
+- Database diagram sites (e.g. lucid.app)
+- Architecture diagram sites (e.g. whimsical)
