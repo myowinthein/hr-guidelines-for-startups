@@ -177,5 +177,3 @@
 - API documentation (e.g. postman, swagger)
 - Third-party developer consoles (e.g. google, facebook, firebase)
 - UI/UX prototype sites (e.g. sketch, invision)
-
-***
