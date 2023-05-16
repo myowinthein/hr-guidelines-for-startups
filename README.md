@@ -1,107 +1,73 @@
 # 🌟 Recruitment ✨
 
-### Searching for the Right Candidates 👥
-- Collect candidates by
-  - Asking for referral from existing company employees
-  - Asking for recommended students from institutes by instructors
-  - Job posting in portals
-- Read the resumes and choose the selections (1st filter)
+### Finding the Candidates 👥
+- Search candidates by
+  - Asking referral from existing employees
+  - Asking recommended students from institutes
+  - Posting in job portals
+- Read the resumes & choose the selections (1st filter)
 - Email each candidate to request their best portfolios or GitHub repositories
-- Check the source codes and choose the selections (2nd filter)
+- Review their source codes & choose the selections (2nd filter)
 - Sort the candidates by their ranking
 - Email candidates for interview arrangement
 
-### Interview Questions 🗣️
-
-##### General 💭
-- Why do u choose programming career?
-- What are ur career goals?
-- How do u approach new language or framework?
-- Why u apply at my company?
-- Have a plan to relocate overseas country in the future?
-
-##### Personality 😄
-- Solo or team player?
-- Interest in client communications?
-- Kind of management style u like?
-- Kind of company culture u like?
-- Favorite types of project?
-- What's ur view on QA?
-
-##### Technical 🖥️
-- Backend or frontend guy?
-- What are the biggest challenges of developing backend & frontend?
-- Good in web design?
-- Experience in CMS?
-- Experience in native or hybrid mobile development?
-- Experience with test automation tools?
-- Interested in system administrations?
-- Interested in database queries?
-- Least favorite part of programming?
+### Interview Process 🗣️
+- CTO, project manager or product owner & team lead are mandatory for all processes
+- 1st round will be face to face conversations
+  - Ask questions about their technical skills
+  - Ask questions about their personality
+  - Ask questions about their past career
+- 2nd round will be live code test
+  - There will be a small project with list of assignments to do
+  - Maximum two developers from the team and the candidate should complete it together within a given duration
+  - The interview team from the 1st round will not speak a word except for the instructions
+  - They will review problem-solving, algorithmic thinking, collaboration & communication of the candidate
+- Internal meeting of the interview team
+  - This will happen after completing all rounds to decide the candidate is pass or fail
+  - If fail, inform HR department to email the candidate about our decision
+  - If pass, inform HR department to arrange a final interview to discuss about salary, visa sponsorship, etc.
+  - Any governmental processes will be carried out by the HR or Admin department until a work visa is issued
 
 ***
 
 # 🚀 On-boarding 🎉
 
 ### 3 Days Before 🗓️
-
 - List projects & features to assign
-- Send calendar invite to tech team about the welcome video call
-- Ask to employee
-  - Hardware requirements
-  - Portrait photo
-  - SSH public key
-- Create new accounts
-  - Email (e.g. outlook, gmail)
-  - GitLab
-  - AWS
-  - Any third-party applications
-- Invite to assigned projects
-  - GitLab repositories
-  - Project related group chats (e.g. workplace, slack)
-  - Third-party developer consoles (e.g. facebook, google)
-  - API documentation (e.g. postman, swagger)
-  - UI/UX prototype sites (e.g. sketch, invision)
-  - Database diagram sites (e.g. lucid.app)
-  - Architecture diagram sites (e.g. whimsical)
+- Send calendar invite to tech team about the welcome meeting
+- Purchase necessary hardwares & accounts for the new employee
+- Create an employee report (everything we've learnt during the interview)
 - Add birthday & work anniversary to reminder app
-- Create an employee report `No specific format. Can include personality, weakness, strength, etc`
 
 ### First Working Day 🚀
-- Introduce to tech team in video call
-- Explain a brief about company & SOP in tech team
+- Introduce to tech team in welcome meeting
+- Explain
+  - Rules & regulations of the company by HR
+  - Tech team SOP by team lead
+  - Project management SOP by PM or PO
 - Post about employee in company group chat or internal social network
-- Give credentials of opened accounts
-- Project handover
+- Give credentials of opened accounts & hardwares
+- Plan for project handover
 
 ***
 
 # 🎉 Company Events 🎊
 
-### Bar Nights 🍻
+### Party Nights 🍻
 - Announce the event 1 week before 📢
 - Best to do when we hit some milestones 🎉
-  - Size of tech team reaches xx members 🚀
-  - Exceed targeted profit margin
 
 ### Birthday 🎂
-- Post about birthday 30 mins before the working time
+- Post about birthday after 1 hr from the official working time
 
 ### Resignation 💔
-- Post about resignation 3 days before the last working day
+- Post about resignation on the last working day
 - Invite tech team to farewell on that date
 
 ***
 
 # Employee Benefits 💼
-
-### Computer 💻
-- Instead of giving a new laptop, set a budget for them to buy essential gadgets & do hardware upgrades
-- Set a duration in months on when to give away all the provided gadgets and upgrades
-
-### Benefits & Allowances 🎁💰
-> Depends on company's financial condition
-
+- New laptop of their choice
 - Internet allowance for remote developers 🌐💻
 - Gym allowance 🏋️‍♀️
 - Transportation allowance 🚗
@@ -122,7 +88,7 @@
 
 ### Actions 🚫
 - 1st time warning (verbal + letter + improvement plan + monitoring)
-- 2nd time warning (verbal + letter + improvement plan + monitoring)
+- 2nd time warning (same as above)
 - 3rd time termination with severance pay
 
 > If employee admits their violation and pass the improvement plan, all issued warnings will be reset.
@@ -136,24 +102,19 @@
 - Decide to counteroffer or not
 
 ### If Unable to Counteroffer ❌
-- Prepare for project handover `check detail steps on the next section`
-- List items to reclaim
+- Prepare for project handover
+- List hardwares to reclaim
+- List accounts to remove access
 - List documents to give
   - Recommendation letter
   - Employment letter
   - Tax papers
-- List accounts to remove
-  - Email
-  - GitLab
-  - AWS
-  - Developer console
-  - Third-party applications
-- Write LinkedIn recommendation for an excellent employee
+- Write LinkedIn recommendation for excellent employees
 - Exit interview `perform on the last working day`
-  - Ask cons of working here
+  - Ask pros & cons of working here
   - Ask areas to improve
   - Ask about the personality of co-workers
-  - Ask their view on projects
+  - Ask their view on everything
 
 ***
 
@@ -161,10 +122,11 @@
 
 ### Tech Team 👨‍💻👩‍💻
 - List projects to handover
-- Get the current resource allocation plan
-  - Check if recruitment is needed `Refer to recruitment section`
+- Prepare resource allocation plan
+  - Check if recruitment is needed
   - List suitable developers for each project & notify them
   - Calculate and set a timeline for the handover process
+  - Find new if all resources are used
 
 ### Clients 🤝
 - Email clients about the developer changes
