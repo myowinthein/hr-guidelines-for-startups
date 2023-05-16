@@ -76,51 +76,51 @@
 
 ***
 
-# Company Events
+# 🎉 Company Events 🎊
 
-### Bar Nights
-- Announce the event 1 week before
-- Best to do when we hit some milestones
-  - Size of tech team reach xx members
-  - Exceed than targeted profit margin
+### Bar Nights 🍻
+- Announce the event 1 week before 📢
+- Best to do when we hit some milestones 🎉
+  - Size of tech team reaches xx members 🚀
+  - Exceed targeted profit margin
 
-### Birthday
+### Birthday 🎂
 - Post about birthday 30 mins before the working time
 
-### Resignation
+### Resignation 💔
 - Post about resignation 3 days before the last working day
 - Invite tech team to farewell on that date
 
 ***
 
-# Employee Benefits
+# Employee Benefits 💼
 
-### Computer
+### Computer 💻
 - Instead of giving a new laptop, set a budget for them to buy essential gadgets & do hardware upgrades
 - Set a duration in months on when to give away all the provided gadgets and upgrades
 
-### Benefits & Allowances
+### Benefits & Allowances 🎁💰
 > Depends on company's financial condition
 
-- Internet allowance for remote developers
-- Gym allowance
-- Transportation allowance
-- Medical insurance
-- Provide online courses & certification exams
-- Free lunch & snacks
-- Project bonus `set a rule on how many % to split on which conditions`
-- 13th month double salary
+- Internet allowance for remote developers 🌐💻
+- Gym allowance 🏋️‍♀️
+- Transportation allowance 🚗
+- Medical insurance 🏥
+- Provide online courses & certification exams 📚🎓
+- Free lunch & snacks 🍽️🍕
+- Project bonus `set a rule on how many % to split on which conditions` 💯💸
+- 13th month double salary 💰💰
 
 ***
 
-# Punishment
+# Punishment ⚠️
 
-### Violation Cases
-- Negative attitude in workspace
-- Not meeting project deadlines
-- Poor technical knowledge and work rate
+### Violation Cases ⚖️
+- Negative attitude in workspace 😠
+- Not meeting project deadlines ⏰
+- Poor technical knowledge and work rate 📉
 
-### Actions
+### Actions 🚫
 - 1st time warning (verbal + letter + improvement plan + monitoring)
 - 2nd time warning (verbal + letter + improvement plan + monitoring)
 - 3rd time termination with severance pay
@@ -129,14 +129,14 @@
 
 ***
 
-# Resignation
+# Resignation 💔
 
-### Initial Steps
-- Arrange meeting to understand employee problems, needs & wants
+### Initial Steps 🔄
+- Arrange a meeting to understand employee problems, needs & wants
 - Decide to counteroffer or not
 
-### If Unable to Counteroffer
-- Prepare for project handover `check detail steps on next section`
+### If Unable to Counteroffer ❌
+- Prepare for project handover `check detail steps on the next section`
 - List items to reclaim
 - List documents to give
   - Recommendation letter
@@ -148,28 +148,28 @@
   - AWS
   - Developer console
   - Third-party applications
-- Write LinkedIn recommendation for excellent employee
-- Exit interview `perform at the last working day`
+- Write LinkedIn recommendation for an excellent employee
+- Exit interview `perform on the last working day`
   - Ask cons of working here
   - Ask areas to improve
-  - Ask personality of co-workers
+  - Ask about the personality of co-workers
   - Ask their view on projects
 
 ***
 
-# Project Handover on Employee Exit
+# Project Handover on Employee Exit 📋
 
-### Tech Team
+### Tech Team 👨‍💻👩‍💻
 - List projects to handover
-- Get current resource allocation plan
+- Get the current resource allocation plan
   - Check if recruitment is needed `Refer to recruitment section`
   - List suitable developers for each project & notify them
-  - Calculate and set timeline for handover process
+  - Calculate and set a timeline for the handover process
 
-### Clients
-- Email to clients about the developer changes
+### Clients 🤝
+- Email clients about the developer changes
 
-### Provoke Access
+### Provoke Access 🔐
 - Company group chats (e.g. workplace, slack)
 - Email (e.g. outlook, gmail)
 - GitLab `including SSH Public Key`
@@ -177,7 +177,5 @@
 - API documentation (e.g. postman, swagger)
 - Third-party developer consoles (e.g. google, facebook, firebase)
 - UI/UX prototype sites (e.g. sketch, invision)
-- Database diagram sites (e.g. lucid.app)
-- Architecture diagram sites (e.g. whimsical)
 
 ***
