@@ -1,23 +1,26 @@
-# Recruitment
+# 🌟 Recruitment ✨
 
-### Finding the Candidates
-- Ask recommended candidates from instructors, classes or company employees
-- Check the resumes and list the best potential candidates
-- Email each candidate to send their best portfolios and GitHub link
-- Email candidates that pass the project review for interview arrangement
+### Searching for the Right Candidates 👥
+- Collect candidates by
+  - Asking for referral from existing company employees
+  - Asking for recommended students from institutes by instructors
+  - Job posting in portals
+- Read the resumes and choose the selections (1st filter)
+- Email each candidate to request their best portfolios or GitHub repositories
+- Check the source codes and choose the selections (2nd filter)
+- Sort the candidates by their ranking
+- Email candidates for interview arrangement
 
-### Interview Questions
+### Interview Questions 🗣️
 
-> Focus on hiring a web developer
-
-##### General
+##### General 💭
 - Why do u choose programming career?
 - What are ur career goals?
 - How do u approach new language or framework?
-- What do u think about my company?
+- Why u apply at my company?
 - Have a plan to relocate overseas country in the future?
 
-##### Personality
+##### Personality 😄
 - Solo or team player?
 - Interest in client communications?
 - Kind of management style u like?
@@ -25,7 +28,7 @@
 - Favorite types of project?
 - What's ur view on QA?
 
-##### Technical
+##### Technical 🖥️
 - Backend or frontend guy?
 - What are the biggest challenges of developing backend & frontend?
 - Good in web design?
@@ -38,9 +41,9 @@
 
 ***
 
-# On-boarding
+# 🚀 On-boarding 🎉
 
-### 3 Days Before
+### 3 Days Before 🗓️
 
 - List projects & features to assign
 - Send calendar invite to tech team about the welcome video call
@@ -64,7 +67,7 @@
 - Add birthday & work anniversary to reminder app
 - Create an employee report `No specific format. Can include personality, weakness, strength, etc`
 
-### First Working Day
+### First Working Day 🚀
 - Introduce to tech team in video call
 - Explain a brief about company & SOP in tech team
 - Post about employee in company group chat or internal social network
